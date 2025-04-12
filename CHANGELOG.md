@@ -1,5 +1,13 @@
 # Changelog
 
+## [23.26.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v23.25.0...v23.26.0) (2025-04-12)
+
+
+### Features
+
+* **add:** 929003808501 ([#9163](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9163)) ([0549838](https://github.com/Koenkk/zigbee-herdsman-converters/commit/05498380f1bcf3cc4463133d60859920f642c8bd))
+* **add:** SZW08, SZLR08, SZLM04U ([#9167](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9167)) ([53ef9cb](https://github.com/Koenkk/zigbee-herdsman-converters/commit/53ef9cb0b38afa71d4acf46d7c85c806f1ece382))
+
 ## [23.25.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v23.24.0...v23.25.0) (2025-04-10)
 
 
